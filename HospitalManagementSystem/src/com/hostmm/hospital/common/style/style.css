@@ -1,0 +1,26 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.root{
+	-fx-background-color: #ABD9FF;
+	-fx-font-family: Arial, Times New Roman;
+	-fx-font-size: 19.0px;
+}
+.ui-label{
+	-fx-text-fill: #fff;	
+	-fx-font-weight: bold;
+	-fx-font-size: 20;
+	-fx-alignment: center;
+	-fx-background-color: #FA7070;
+	-fx-background-radius: 20px;
+}
+.input-label{
+	-fx-text-fill: #535353;	
+	-fx-font-weight: bold;
+	-fx-font-size: 16px;
+}
+#btnEnter{
+	-fx-background-color:#C6EBC5;
+	-fx-text-fill: #535353;
+	-fx-font-weight: bold;
+}
+.combo-box .list-view .list-cell {-fx-font-size: 12px;}
